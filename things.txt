@@ -1,7 +1,7 @@
-I like to eat: <Kosa wwara2 Your favorite food here>
-I like to hear: <Arabic Your favorite music here>
+I like to eat: <Kosa wwara2>
+I like to hear: <Arabic Music>
 My hobbies are <Dancing>.
 
 I would like to travel to <Australia>.
 
-"<"Trust the timing of your life" Your favorite quote goes here>".
+"<Trust the timing of your life>".
